@@ -136,3 +136,12 @@ hr {
 .empty {
     color: #AEAEAE
 }
+
+/* media queries */
+
+/* mobile devices */
+@media screen and (max-width: 688px) {
+    .players {
+        background-color: red;
+    }
+}
